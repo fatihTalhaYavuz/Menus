@@ -71,7 +71,7 @@ class Products with ChangeNotifier {
 
   Future<void> fetchAndSetProducts() async {
     final url = Uri.parse(
-        'https://alis-ad412-default-rtdb.europe-west1.firebasedatabase.app/products.json');
+        'https://grinder-78919-default-rtdb.europe-west1.firebasedatabase.app/products.json');
     try {
       final response = await http.get(url);
       final extractedData = json.decode(response.body) as Map<String, dynamic>;
