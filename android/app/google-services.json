@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123928168819",
+    "project_id": "grinder-78919",
+    "storage_bucket": "grinder-78919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123928168819:android:e64ee73c327dc118a19d06",
+        "android_client_info": {
+          "package_name": "com.example.menus_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123928168819-pa9dugtdppkov1nql59lmgnr4a6nnk0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl_EIt88H83SFiqAQGmqddnngAQPnxFvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123928168819-pa9dugtdppkov1nql59lmgnr4a6nnk0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
