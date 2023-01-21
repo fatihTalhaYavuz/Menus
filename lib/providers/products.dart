@@ -20,7 +20,7 @@ class Products with ChangeNotifier {
       id: 'g2',
       title: 'Trouserss',
       description: 'A perfect to pair of trousers.',
-      price: 59.99,
+      price: 53.99,
       imageUrl:
           'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trousers%2C_dress_%28AM_1960.022-8%29.jpg/512px-Trousers%2C_dress_%28AM_1960.022-8%29.jpg',
     ),
@@ -28,7 +28,7 @@ class Products with ChangeNotifier {
       id: 'g3',
       title: 'Yellow Scarff',
       description: 'Warm and cozy - exactly what you need for the winter.',
-      price: 19.99,
+      price: 15.99,
       imageUrl:
           'https://live.staticflickr.com/4043/4438260868_cc79b3369d_z.jpg',
     ),
@@ -36,7 +36,7 @@ class Products with ChangeNotifier {
       id: 'g4',
       title: 'A Pann',
       description: 'Prepare any meal you wantt.',
-      price: 49.99,
+      price: 47.99,
       imageUrl:
           'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg',
     ),
