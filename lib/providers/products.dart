@@ -9,24 +9,24 @@ import 'product.dart';
 class Products with ChangeNotifier {
   List<Product> _items = [
     Product(
-      id: '31',
-      title: 'yellow Shirt',
+      id: 'g1',
+      title: 'yellow Shirttt',
       description: 'A blue shirt - it is perfectly red!',
       price: 29.9990,
       imageUrl:
           'https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_1280.jpg',
     ),
     Product(
-      id: 'g2',
-      title: 'Trouserss',
+      id: 'g3',
+      title: 'Trouserssdsd',
       description: 'A perfect kklşjşjş to pair of trousers.',
       price: 43.98909,
       imageUrl:
           'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trousers%2C_dress_%28AM_1960.022-8%29.jpg/512px-Trousers%2C_dress_%28AM_1960.022-8%29.jpg',
     ),
     Product(
-      id: 'g3',
-      title: 'Yellow Scarff',
+      id: 'g4',
+      title: 'Yellow Scarfffff',
       description: 'Warm and cozlklky - exactly what you need for the winter.',
       price: 76.9909,
       imageUrl:
