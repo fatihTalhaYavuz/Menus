@@ -10,15 +10,15 @@ class Products with ChangeNotifier {
   List<Product> _items = [
     Product(
       id: 'g1',
-      title: 'yellow Shirttt',
-      description: 'A blue shirt - it is perfectly red!',
+      title: 'yellow Shirrrrrrrttt',
+      description: 'A bluuuuuueeeeeee shirt - it is perfectly red!',
       price: 29.9990,
       imageUrl:
           'https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_1280.jpg',
     ),
     Product(
       id: 'g3',
-      title: 'Trouserssdsd',
+      title: 'Trouuuuuuuuuuseeersssssdsd',
       description: 'A perfect kklşjşjş to pair of trousers.',
       price: 43.98909,
       imageUrl:
@@ -26,7 +26,7 @@ class Products with ChangeNotifier {
     ),
     Product(
       id: 'g4',
-      title: 'Yellow Scarfffff',
+      title: 'Yellow Scarrrrfffffff',
       description: 'Warm and cozlklky - exactly what you need for the winter.',
       price: 76.9909,
       imageUrl:
@@ -34,8 +34,8 @@ class Products with ChangeNotifier {
     ),
     Product(
       id: 'g4',
-      title: 'A Pann',
-      description: 'Preparemlkm any meal you wantt.',
+      title: 'A Pannnnnn',
+      description: 'Prepaaaaareeeeeemlllkkm any meal you wwwwantt.',
       price: 76.909,
       imageUrl:
           'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg',
