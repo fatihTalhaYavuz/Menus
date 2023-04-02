@@ -22,7 +22,7 @@ class Products with ChangeNotifier {
       description: 'A perfect kklşjşjş to pair of trousers.',
       price: 43.98909,
       imageUrl:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trousers%2C_dress_%28AM_1960.022-8%29.jpg/512px-Trousers%2C_dress_%28AM_1960.022-8%29.jpg',
+          'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trousers%2C_dress_%28AM_1960.022-8%29.jpg/512px-Trousers%2C_dress_%28AM_1960.022-8%29.jpg',
     ),
     Product(
       id: 'g4',
@@ -30,7 +30,7 @@ class Products with ChangeNotifier {
       description: 'Warm and cozlklky - exactly what you need for the winter.',
       price: 76.9909,
       imageUrl:
-      'https://live.staticflickr.com/4043/4438260868_cc79b3369d_z.jpg',
+          'https://live.staticflickr.com/4043/4438260868_cc79b3369d_z.jpg',
     ),
     Product(
       id: 'g4',
@@ -38,7 +38,7 @@ class Products with ChangeNotifier {
       description: 'Prepareeeemlllkkm any meal you wwwwantt.',
       price: 76.909,
       imageUrl:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg',
+          'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg',
     ),
   ];
 
