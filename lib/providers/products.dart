@@ -10,15 +10,15 @@ class Products with ChangeNotifier {
   List<Product> _items = [
     Product(
       id: 'g1',
-      title: 'yellow Shirrrrrrrttt',
-      description: 'A bluuuuuueeeeeee shirt - it is perfectly red!',
+      title: 'yellow Shirrrrrrttt',
+      description: 'A bluuuueeeee shirt - it is perfectly red!',
       price: 29.9990,
       imageUrl:
           'https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_1280.jpg',
     ),
     Product(
       id: 'g3',
-      title: 'Trouuueeersssssdsd',
+      title: 'Trouueeerssssdsd',
       description: 'A perfect kklşjşjş to pair of trousers.',
       price: 43.98909,
       imageUrl:
@@ -26,7 +26,7 @@ class Products with ChangeNotifier {
     ),
     Product(
       id: 'g4',
-      title: 'Yellow Scarrrfffff',
+      title: 'Yellow Scarrfff',
       description: 'Warm and cozlklky - exactly what you need for the winter.',
       price: 76.9909,
       imageUrl:
@@ -35,7 +35,7 @@ class Products with ChangeNotifier {
     Product(
       id: 'g4',
       title: 'A Pannnnnn',
-      description: 'Prepaareeeeeemlllkkm any meal you wwwwantt.',
+      description: 'Prepareeeemlllkkm any meal you wwwwantt.',
       price: 76.909,
       imageUrl:
       'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg',
@@ -46,7 +46,7 @@ class Products with ChangeNotifier {
 
   List<Product> get items {
     // if (_showFavoritesOnly) {
-    //   return _items.where((prodItem) => prodItem.isFavorite).toList();
+    //   return _items.wher) => prodItem.isFavorite).toList();
     // }
     return [..._items];
   }
